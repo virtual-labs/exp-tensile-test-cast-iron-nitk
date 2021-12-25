@@ -2,38 +2,123 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which type of material is cast iron?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Ductile",
+        "b": "Brittle",
+        "c": "Rigid",
+        "d": "Semi rigid"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Slope of the line joining origin and a specified point on stress-strain curve is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Secant modulus",
+        "b": "Modulus of rigidity",
+        "c": "Bulk modulus",
+        "d": "Tangent modulus"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following statement is correct",
+      "answers": {
+        "a": "Energy stored in the body, when strained within the elastic limit is known as strain energy",
+        "b": "The maximum strain energy which can be stored in a body is termed as proof resilience",
+        "c": "The proof resilience/unit volume of material is known as modulus of resilience",
+        "d": "All the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "What is the IS code for tension test on aluminium and aluminium alloy tubes?",
+      "answers": {
+        "a": "IS 2657-1964",
+        "b": "IS 2658-1964",
+        "c": "IS 2656-1964",
+        "d": "IS 2655-1964"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Correct statement",
+      "answers": {
+        "a": "Mild steel have more carbon content than cast iron",
+        "b": "Cast iron and mild steel have same carbon content",
+        "c": "Cast iron have more carbon content than mild steel",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "The ratio of breaking load to area of cross section is",
+      "answers": {
+        "a": "Tensile Strength",
+        "b": "Proof Stress",
+        "c": "Secant Modulus",
+        "d": "Tangent Modulus"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Yield strength of pure aluminium is",
+      "answers": {
+        "a": "7-11 MPa",
+        "b": "15-20 MPa",
+        "c": "20-25 MPa",
+        "d": "25-30 MPa"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
     }
   ]
 }

@@ -2,38 +2,136 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which of the following statement is correct",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Energy stored in the body, when strained within the elastic limit is known as strain energy",
+        "b": "The maximum strain energy which can be stored in a body is termed as proof resilience",
+        "c": "The proof resilience/unit volume of material is known as modulus of resilience",
+        "d": "All the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "d",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Instrument used to measure extension in cast iron and aluminium in this experiment is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Extensometer",
+        "b": "Dial micrometer",
+        "c": "Scale",
+        "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "If the material is unloaded, there will be specified percentage of strain permanently left in it. It is called",
+      "answers": {
+        "a": "Yield stress",
+        "b": "Tangent stress",
+        "c": "Proof stress",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "Which is correct",
+      "answers": {
+        "a": "Wrought iron is produced from cast iron",
+        "b": "Cast iron is produced from pig iron",
+        "c": "Both a and b",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Percentage reduction of cast iron specimen during tensile test would be of order",
+      "answers": {
+        "a": "More than 50%",
+        "b": "25 - 50%",
+        "c": "10 - 25%",
+        "d": "Negligible"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "Correct order for metals",
+      "answers": {
+        "a": "tensile strength< shear strength< compressive strength",
+        "b": "shear strength< tensile strength< compressive strength",
+        "c": "shear strength< compressive strength< tensile strength",
+        "d": "compressive strength< tensile strength< shear strength"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Wrought iron has better tensile strength than cast iron and is more ductile.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Young's modulus of Iron and Aluminium in GPa",
+      "answers": {
+        "a": "400 & 250",
+        "b": "70 & 350",
+        "c": "211 & 70",
+        "d": "300 & 450"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
     }
   ]
 }
